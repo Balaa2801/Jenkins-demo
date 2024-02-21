@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "Hello, I am Balaji. Jenkins email testing"
+echo "Hello, I am Balaji. Jenkins testing webhook"
 
